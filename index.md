@@ -23,5 +23,5 @@ progress on specific issues. The Agile handoff helped me immensely. When I stay 
 it allows me to build code with progress in mind and avoid the dreaded [scope creep](https://www.wrike.com/project-management-guide/faq/what-is-scope-creep-in-project-management/).  
 The journey to becoming a developer is a long and arduous one, but in the end it comes down to focus. So, in the end, just remember to sign off.
 
-
-
+Jason Conkle
+-git commit push
