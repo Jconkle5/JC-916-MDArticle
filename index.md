@@ -21,8 +21,9 @@ It allows a clean, task-oriented way of building an app that ensures deliberate 
 Agile development is a structure that allows for decisive actions that hone in on specific problems and inherently keeps track of the  
 progress on specific issues. The Agile handoff helped me immensely. When I stay on track and focused, my work is not only faster, but  
 it allows me to build code with progress in mind and avoid the dreaded [scope creep](https://www.wrike.com/project-management-guide/faq/what-is-scope-creep-in-project-management/).  
-The journey to becoming a developer is a long and arduous one, but in the end it comes down to focus. So, in the end, just remember to sign off.
+The journey to becoming a developer is a long and arduous one, but in the end it comes down to focus. So, just remember to sign off.
 
 Jason Conkle  
--git commit push
+-Add Commit Push
+
 
